@@ -1,0 +1,11 @@
+.header-container {
+  background-color: #975ec9;
+  display: flex;
+  justify-content: center;
+  color: aliceblue;
+  padding: 8px;
+  .r-icon {
+    position: absolute;
+    right: 32px;
+  }
+}
